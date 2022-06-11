@@ -7,7 +7,6 @@ negative toward those companies. The bot then automatically executes trades on
 the relevant stocks according to the expected market reaction. It also tweets
 out a summary of its findings in real time at
 
-*You can read more about the background story [here](https://trump2cash.biz).*
 
 [![Trump2Cash](https://cdn-images-1.medium.com/max/1400/1*VbnhlLnZz0KvWO0QsM5Ihw.png)](https://trump2cash.biz)
 
